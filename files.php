@@ -160,7 +160,7 @@ if ($action == 'update_fullname') {
         <hr>
         
         <div class="row">
-            <div class="col-md-12"><h4><b>Folders</b></h4></div>
+            <div class="col-md-12"><h4><b>Manage Folders</b></h4></div>
         </div>
         <hr>
         <div class="row">
